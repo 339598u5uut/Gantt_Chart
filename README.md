@@ -14,4 +14,9 @@
 * блоки дат, которые не влезают справа обрезаются через fade-затенение (см. дизайн, справа);
 * После выполнения тестого задания оно публикуется на github.
 
+Установить локально:
+* git clone https://github.com/339598u5uut/Gantt_Chart.git
+* npm i
+* npm start
+
 ### Getting Started with Create React App
