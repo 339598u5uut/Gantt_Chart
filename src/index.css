@@ -46,13 +46,13 @@ h1 {
   overflow-x: hidden;
 }
 
-.gantt_default_main {
+/* .gantt_default_main {
   box-shadow: inset -4px 2px 8px rgba(16, 31, 43, 0.1);
 }
 
 .gantt_default_scrollable {
-  z-index: -10;
-}
+   z-index: -1;
+} */
 
 .header_button {
   display: flex;
