@@ -1,4 +1,10 @@
-#Cделать небольшую страничку на React JS, которая выводит данные в Gantt Chart.
+# Тестовое задание: Cделать небольшую страничку на React JS, которая выводит данные в Gantt Chart.
+
+
+
+https://user-images.githubusercontent.com/90867396/206056517-888fe14c-8a1b-4bc6-bf07-b26a58f7f2da.mp4
+
+
 
 * Дизайн: https://www.figma.com/file/XupmcrSoB0hryaH40A6Gy2/ReactTest
 
